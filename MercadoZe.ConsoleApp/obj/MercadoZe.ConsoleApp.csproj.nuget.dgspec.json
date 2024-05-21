@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Trop Tech\\Trop Tech módulo 02\\aula 31 - 08-08\\MercadoZe\\MercadoZe.ConsoleApp\\MercadoZe.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Trop Tech\\Trop Tech módulo 02\\aula 31 - 08-08\\MercadoZe\\MercadoZe.ConsoleApp\\MercadoZe.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trop Tech\\Trop Tech módulo 02\\aula 31 - 08-08\\MercadoZe\\MercadoZe.ConsoleApp\\MercadoZe.ConsoleApp.csproj",
+        "projectName": "MercadoZe.ConsoleApp",
+        "projectPath": "C:\\Trop Tech\\Trop Tech módulo 02\\aula 31 - 08-08\\MercadoZe\\MercadoZe.ConsoleApp\\MercadoZe.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
+        "outputPath": "C:\\Trop Tech\\Trop Tech módulo 02\\aula 31 - 08-08\\MercadoZe\\MercadoZe.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
